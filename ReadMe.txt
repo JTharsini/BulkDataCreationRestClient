@@ -1,0 +1,2 @@
+-implements CommandLineRunner makes application to run as CommandLine application
+-
